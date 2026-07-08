@@ -1,0 +1,212 @@
+{
+  "id": "5137545",
+  "name": "my_app_kaoshi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7417100",
+      "name": "question_train_shoucang",
+      "font_class": "shoucang",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "11734536",
+      "name": "question_train_zihao",
+      "font_class": "Word",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "29808439",
+      "name": "question_train_biaoqian",
+      "font_class": "biaoqian",
+      "unicode": "e8f8",
+      "unicode_decimal": 59640
+    },
+    {
+      "icon_id": "45595055",
+      "name": "question_train_datika",
+      "font_class": "datika",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "637805",
+      "name": "首页-公告",
+      "font_class": "xiaoxigonggao",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "3929766",
+      "name": "考前押题",
+      "font_class": "yati",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "4081300",
+      "name": "模拟考试",
+      "font_class": "icon-kaoshijilu",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "10407397",
+      "name": "考试倒计时",
+      "font_class": "naoling",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "20950478",
+      "name": "历年真题",
+      "font_class": "linianzhenti",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "10118543",
+      "name": "核心母题",
+      "font_class": "viptiku",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "10951728",
+      "name": "我要反馈",
+      "font_class": "fankui",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "11299366",
+      "name": "快问老师",
+      "font_class": "laoshi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "15381961",
+      "name": "每日一练",
+      "font_class": "meiriyilian",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "24656840",
+      "name": "我的笔记",
+      "font_class": "a-bijibenbiji",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "29959512",
+      "name": "tabs-学习-选中",
+      "font_class": "shipin",
+      "unicode": "100d9",
+      "unicode_decimal": 65753
+    },
+    {
+      "icon_id": "47055364",
+      "name": "tabs-学习-未选中",
+      "font_class": "shipin-copy",
+      "unicode": "100da",
+      "unicode_decimal": 65754
+    },
+    {
+      "icon_id": "47055171",
+      "name": "tabs-题库",
+      "font_class": "kaoshi-copy",
+      "unicode": "ea30",
+      "unicode_decimal": 59952
+    },
+    {
+      "icon_id": "6733432",
+      "name": "章节练习",
+      "font_class": "zhangjie",
+      "unicode": "ea2c",
+      "unicode_decimal": 59948
+    },
+    {
+      "icon_id": "9015531",
+      "name": "精准母题",
+      "font_class": "biaotiremenhuati",
+      "unicode": "e990",
+      "unicode_decimal": 59792
+    },
+    {
+      "icon_id": "16563022",
+      "name": "收 藏",
+      "font_class": "xz",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "24264038",
+      "name": "tabs-题库-选中",
+      "font_class": "kaoshi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "25447653",
+      "name": "合_39试卷管理",
+      "font_class": "he_39shijuanguanli",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "29074467",
+      "name": "错题本",
+      "font_class": "cuotiben",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    },
+    {
+      "icon_id": "47054395",
+      "name": "tabs-我的-选中",
+      "font_class": "wode-copy",
+      "unicode": "ea2e",
+      "unicode_decimal": 59950
+    },
+    {
+      "icon_id": "44337048",
+      "name": "tabs-我的",
+      "font_class": "wode",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "25332581",
+      "name": "章节练习",
+      "font_class": "xitiku",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "11676094",
+      "name": "tabs-首页",
+      "font_class": "shouye1",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "25332580",
+      "name": "错题本",
+      "font_class": "cuotiku",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "47053719",
+      "name": "tabs-首页-选中",
+      "font_class": "shouye1-copy",
+      "unicode": "ea2d",
+      "unicode_decimal": 59949
+    }
+  ]
+}

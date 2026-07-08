@@ -1,0 +1,52 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storeFile": "D:/key/.p12",
+          "storePassword": "0000001C0894C5BA48F366875B41D3764BABB208F9F7305DD7CE97739C64352B763732FF57E1D6D2D164DF46",
+          "keyAlias": "haitunxia",
+          "keyPassword": "0000001C54F8FD181C8EA82EEA3FEB23D4AE13D2E01E33A12AB3E919DD1B7C62A2385C31BB7D5A5F69F6B4A3",
+          "signAlg": "SHA256withECDSA",
+          "profile": "D:/key/haitunxiaRelease.p7b",
+          "certpath": "D:/key/haitunxia_HarmonyOS.cer"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.1.0(18)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "profile"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
