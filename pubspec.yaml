@@ -1,4 +1,4 @@
-name: xmshop
+name: haitunxia
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -40,10 +40,18 @@ dependencies:
   webview_flutter: ^4.4.0
   
   flutter_svg: ^2.0.9
-dev_dependencies: 
+dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.14.4   # 依赖项在这里，只写版本号
+
+# ★★★ 这里是关键：flutter_launcher_icons 的配置必须放在顶级，与 flutter: 平级 ★★★
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+  remove_alpha_ios: true
 
 # === 鸿蒙平台必须的依赖覆盖（解决间接依赖不兼容问题）===
 dependency_overrides:
