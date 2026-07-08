@@ -54,25 +54,25 @@ flutter_launcher_icons:
   remove_alpha_ios: true
 
 # === 鸿蒙平台必须的依赖覆盖（解决间接依赖不兼容问题）===
-dependency_overrides:
-  # video_player - 鸿蒙平台使用适配版
-  video_player:
-    git:
-      url: https://gitcode.com/openharmony-tpc/flutter_packages.git
-      path: packages/video_player/video_player
-      ref: br_video_player-v2.9.2_ohos
+# dependency_overrides:
+#   # video_player - 鸿蒙平台使用适配版
+#   video_player:
+#     git:
+#       url: https://gitcode.com/openharmony-tpc/flutter_packages.git
+#       path: packages/video_player/video_player
+#       ref: br_video_player-v2.9.2_ohos
 
-  # path_provider - 鸿蒙平台使用适配版
-  path_provider:
-    git:
-      url: https://gitcode.com/openharmony-tpc/flutter_packages.git
-      path: packages/path_provider/path_provider
-      ref: br_path_provider-v2.1.4_ohos
+#   # path_provider - 鸿蒙平台使用适配版
+#   path_provider:
+#     git:
+#       url: https://gitcode.com/openharmony-tpc/flutter_packages.git
+#       path: packages/path_provider/path_provider
+#       ref: br_path_provider-v2.1.4_ohos
 
-  # chewie - 鸿蒙平台使用适配版（独立仓库）
-  chewie:
-    git:
-      url: https://atomgit.com/openharmony-sig/fluttertpc_chewie.git
+#   # chewie - 鸿蒙平台使用适配版（独立仓库）
+#   chewie:
+#     git:
+#       url: https://atomgit.com/openharmony-sig/fluttertpc_chewie.git
 
 flutter: 
   uses-material-design: true
